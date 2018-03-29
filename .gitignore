@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 jupyter_russian/homeworks/samsung_HAR/
+jupyter_russian/homeworks/data/
 .Python
 env/
 build/
